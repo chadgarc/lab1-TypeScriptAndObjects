@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "outDir": "./dist"
+    "outDir": "../"
   },
   "devDependencies": {
     "typescript": "~6.0.2",
